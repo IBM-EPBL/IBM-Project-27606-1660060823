@@ -1,0 +1,6 @@
+how to declare the the global variable
+*
+global.Set("variable name",msg.payload)
+global.get("variable name",msg.payload)
+gobal.Set("msg.payload",variable name)
+global.get(msg.payload,"variable name")
